@@ -7,8 +7,29 @@ h1{
     text-align: center;
 }
 
-p{
-    background-color: rgb(162, 143, 233); /*Optional*/
+#supes{
+    float: right;
+    color: black;
+    background-color: chocolate;
+}
+
+
+#flash{
+    text-align: left;
+    color: chartreuse;
+    background-color: cadetblue ;
+}
+
+
+#bats{
+    text-align: left;
+    color: blueviolet;
+    background-color: burlywood;
+}
+
+.sections{
+    background-color: darkgray;
+    border: 1px solid black;
 }
 
 .Row::after {
